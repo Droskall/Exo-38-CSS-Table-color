@@ -1,0 +1,137 @@
+table{
+    border: 1px solid black;
+    text-align: center;
+    background-color: gainsboro;
+}
+
+td {
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+}
+
+#sup{
+    color: blue;
+}
+
+#r{
+    color: blue;
+}
+
+#américain{
+    color: red;
+}
+
+#a{
+    color: blue;
+}
+
+#p{
+    color: blue;
+}
+
+#l{
+    color: blue;
+}
+
+#ipd{
+    color: red;
+}
+
+#i{
+    color: blue;
+}
+
+#n{
+    color: blue;
+}
+
+#blu{
+    background-color: blue;
+}
+
+#red{
+    background-color: red;
+}
+
+#violet{
+    background-color: rebeccapurple;
+}
+
+#rose{
+    background-color: violet;
+}
+
+#jaune{
+    background-color: yellow;
+}
+
+#date7 td:nth-child(1){
+    font-weight: bold;
+}
+
+#date7 td:nth-child(2){
+    font-weight: bold;
+}
+
+#date6 td:nth-child(1){
+    font-weight: bold;
+}
+
+#date6 td:nth-child(2){
+    font-weight: bold;
+}
+
+#date td:nth-child(1){
+    color: blue;
+    font-weight: bold;
+}
+
+#date td:nth-child(2){
+    font-weight: bold;
+}
+
+#date1 td:nth-child(1){
+    color: blue;
+    font-weight: bold;
+}
+
+#date1 td:nth-child(2){
+    font-weight: bold;
+}
+
+#date2 td:nth-child(1){
+    color: blue;
+    font-weight: bold;
+}
+
+#date2 td:nth-child(2){
+    font-weight: bold;
+}
+
+#date3 td:nth-child(1){
+    color: blue;
+    font-weight: bold;
+}
+
+#date3 td:nth-child(2){
+    font-weight: bold;
+}
+
+#date4 td:nth-child(1){
+    color: blue;
+    font-weight: bold;
+}
+
+#date4 td:nth-child(2){
+    font-weight: bold;
+}
+
+#date5 td:nth-child(1){
+    color: blue;
+    font-weight: bold;
+}
+
+#date5 td:nth-child(2){
+    font-weight: bold;
+}
